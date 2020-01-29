@@ -6,7 +6,7 @@
 #property copyright "Copyright 2019, MetaQuotes Software Corp."
 #property link      "https://www.mql5.com"
 
-#include <Useful Macros/Arrays.mqh>
+#include <CustomInclude/Useful Macros/Arrays.mqh>
 
 namespace CustomSymbol
 {

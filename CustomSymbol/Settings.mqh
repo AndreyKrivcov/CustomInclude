@@ -6,7 +6,7 @@
 #property copyright "Copyright 2019, MetaQuotes Software Corp."
 #property link      "https://www.mql5.com"
 
-#include <CustomGeneric/GenericSorter.mqh>
+#include <CustomInclude/CustomGeneric/GenericSorter.mqh>
 #include "MainSettings.mqh"
 
 namespace CustomSymbol

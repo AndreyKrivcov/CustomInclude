@@ -6,7 +6,7 @@
 #property copyright "Copyright 2019, MetaQuotes Software Corp."
 #property link      "https://www.mql5.com"
 
-#include <Useful Macros/Flags.mqh>
+#include <CustomInclude/Useful Macros/Flags.mqh>
 #include "SessionData.mqh"
 
 namespace CustomSymbol
