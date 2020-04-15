@@ -45,5 +45,6 @@ $RECYCLE.BIN/
 ### MQL5 ###
 # executablefiles
 *.ex5
-
+*:CursorPos
+*:LineFlags
 # End of https://www.gitignore.io/api/linux,windows
